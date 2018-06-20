@@ -1,0 +1,339 @@
+﻿html {
+font-size: 1.2em;
+font-family: "Tahoma",
+             "Microsoft JhengHei", "Microsoft YaHei Light", "Apple LiSung Light",
+             sans-serif;
+color: black;
+background-color: #D59FB2;
+text-align: left;
+margin: 0 auto 0 auto;
+padding: 0;
+}
+
+.back1, .back2 {
+display: block;
+overflow: hidden;
+position: fixed;
+z-index: -1;
+background-image: url(bg.png);
+background-position: top left;
+background-repeat: repeat-x;
+width: 130%;
+height: 200px;
+}
+.back1 {left: 0%; top: 0%; transform: translate(-40px, -100px) rotate(-9deg);}
+.back2 {left: 0%; top: 100%; transform: translate(-40px, -140px) rotate(171deg);}
+
+/* link */
+a {
+color: #8A2E4E;
+text-decoration: underline;
+}
+a:hover {color: rgb(184,61,104);}
+
+/* small link */
+.l {
+letter-spacing: -2px;
+}
+
+/* article */
+.a {
+display: block;
+overflow: visible;
+line-height: 1.5em;
+color: #8A2E4E;
+width: 34rem;
+min-width: 34rem;
+max-width: 34rem;
+background-color: rgba(242,215,224,0.8);
+background-image: url(bg1.png);
+background-blend-mode: overlay;
+background-position: bottom right;
+background-repeat: no-repeat;
+background-attachment: scroll;
+border-radius: 16px;
+height: auto;
+margin: 0;
+margin-left: 16.5rem;
+margin-bottom: .5rem;
+}
+
+/* header */
+.h {
+display: block;
+overflow: hidden;
+color: white;
+background-color: rgba(184,61,104,.5);
+border-top-left-radius: 16px;
+border-top-right-radius: 16px;
+padding: .5rem 1rem .5rem 1rem;
+}
+
+/* banner */
+.b {
+display: block;
+font-size: 1.3rem;
+line-height: 1.2em;
+vertical-align: middle;
+letter-spacing: 2px;
+text-indent: 0;
+margin: 0;
+padding: 0;
+}
+
+/* poem */
+.w {
+display: block;
+font-size: .8rem;
+line-height: .2rem;
+text-indent: 0;
+text-align: right;
+padding: 0;
+color: white;
+width: inherit;
+}
+
+/* content */
+.c {
+display: block;
+overflow: hidden;
+text-align: left;
+line-height: 1.5em;
+height: auto;
+margin: 0 auto 0 auto;
+padding: 0;
+}
+
+/* title */
+.t {
+text-indent: 0;
+text-align: left; 
+color: white;
+background-color: #E5AFC2;
+background-color: rgba(184,61,104,.5);
+border-bottom: 1px solid rgba(184,61,104,.5);
+border-radius: 2rem / 1rem;
+letter-spacing: 1px;
+width: 29rem;
+margin: 1rem auto 1em auto;
+}
+
+/* paragraph */
+p {
+text-indent: 2rem;
+text-align: left;
+width: 30rem;
+padding: 0 2rem 0 2rem;
+}
+
+/* math */
+u {text-decoration: overline;}
+q {border: 1px solid #000; border-radius: 2px;}
+q:before, q:after {content: "";} 
+p>sub, p>sup {font-size: 70%;}
+pre sub {margin-right: 2px;}
+
+/* block */
+pre, .pre {
+font-family: "Consolas",
+             "Microsoft JhengHei", "Microsoft YaHei Light", "Apple LiSung Light",
+             monospace;
+font-size: .8rem;
+font-weight: normal;
+line-height: 1.2em;
+text-indent: 0;
+tab-size: 2;
+color: rgb(184,61,104);
+border-top: 2px dashed rgb(184,61,104);
+border-bottom: 2px dashed rgb(184,61,104);
+border-radius: 6rem / .1rem;
+width: auto;
+padding: .5rem 0 .5rem 0;
+margin-left: 2rem;
+margin-right: 2rem;
+word-wrap: break-word;
+}
+.pre {
+font-size: .9rem;
+display: block;
+margin-top: -1.5rem;
+border: none;
+white-space: pre;
+}
+
+/* exercise */
+.e {
+font-size: .8rem;
+text-indent: 0;
+text-align: left;
+line-height: 1.5em;
+letter-spacing: 2px;
+word-spacing: .5rem;
+word-wrap: break-word;
+color: black;
+background-color: rgba(229,175,194,.3);
+border: 1px solid rgba(184,61,104,.5);
+border-radius: 16px;
+width: auto;
+margin: 0.25rem 2rem 0.25rem 2rem;
+}
+
+/* GWT dremo */
+.d {
+text-indent: 0;
+margin-left: 0;
+margin-right: auto;
+}
+
+/* canvas */
+canvas {
+display: block;
+margin: 0 auto 0 auto;
+}
+
+/* movie */
+.z, iframe {
+display: block;
+margin: 0 auto .5rem auto;
+width: 560;
+height: 315;
+border: 1px dotted rgba(184,61,104,.5);
+overflow: hidden;
+}
+
+img, embed, audio, video, svg {
+display: block;
+margin: 0 auto 0 auto;
+}
+
+/* model */
+object {
+display: none;
+}
+
+/* mathematica */
+blockquote {
+display: none;
+}
+
+/* consecutive image */
+.i {
+display: block;
+text-align: center;
+}
+.i img, .i canvas, .i video, .i audio, .i svg {
+vertical-align: middle;
+display: inline;
+margin: 0;
+}
+
+/* sidebar */
+.m {
+display: block;
+font-size: 1rem;
+line-height: 1em;
+text-align: center;
+text-indent: 0;
+letter-spacing: 1px;
+color: #8A2E4E;
+background-color: rgba(242,215,224,.5);
+background-image: url(bg2.png);
+background-blend-mode: overlay;
+background-position: bottom left;
+background-repeat: no-repeat;
+background-attachment: scroll;
+border-radius: 16px;
+width: 16rem;
+min-width: 16rem;
+max-width: 16rem;
+height: auto;
+min-height: 97%;
+overflow: hidden;
+vertical-align: top;
+position: fixed;
+left: .5rem;
+top: .5rem;
+z-index: 1;
+}
+.m a {text-decoration: none; color: inherit;}
+.m a:hover {color: rgb(184,61,104);}
+
+.m .li {
+display: block;
+text-align: left;
+line-height: 1.2em;
+border-bottom: 2px dotted rgba(242,215,224,.5);
+height: auto;
+margin: 0;
+padding: .3rem .6rem .3rem .6rem;
+}
+
+.m .li:first-child {
+font-size: 1.2rem;
+line-height: 1.5em;
+font-weight: bold;
+color: #EFEFEF;
+border: none;
+background-color: rgba(184,61,104,.5);
+/*background-image: linear-gradient(0deg, rgba(52,52,52,1.0), rgba(0,0,0,0.5));*/
+}
+
+/* code */
+.sh {
+display: block;
+overflow: visible;
+font-family: "Lucida Console", "Courier New",
+             "Microsoft JhengHei", "Microsoft YaHei Light", "Apple LiSung Light",
+             monospace;
+font-size: .8rem;
+line-height: 1.5em;
+color: lightblack;
+width: auto;
+margin: 0.25rem 2rem 0.25rem 2rem;
+word-wrap: break-word;
+word-break: break-all;
+}
+
+/* code title */
+.sh .bar {
+color: black;
+background-color: rgba(229,175,194,.3);
+border: 1px solid rgba(184,61,104,.5);
+border-bottom: 0;
+border-top-right-radius: 16px;
+border-top-left-radius: 16px;
+padding-left: 1rem;
+}
+
+/* line number + content */
+.sh ol {
+list-style: decimal outside;
+margin: 0;
+padding-left: 3em; /* line number */
+border: 1px solid rgba(184,61,104,.5);
+border-bottom-left-radius: 16px;
+border-bottom-right-radius: 16px;
+}
+/* line number color */
+.sh ol {list-style-color: lightgray;}
+.sh ol li::marker {color: lightgray;}
+/* content */
+.sh ol li {border-top: 1px dotted gray;}
+.sh ol li:first-child {border: 0;}
+
+.sh .comment, .sh .comments {color: #008200;}
+.sh .string, .sh .char {color: #069;}
+.sh .macro {color: purple;}
+.sh .type {color: #069;}
+.sh .keyword {color: navy;}
+.sh .word {}
+.sh .value, .sh .hex {color: brown;}
+
+/* mobile */
+@media only screen and (max-device-width: 600px) {
+.m {display: none;}
+.a {margin: 0; width: 99%; min-width: 99%; max-width: 99%;}
+.t {width: 95%; min-width: 95%; max-width: 95%;}
+p {width: 95%; min-width: 95%; max-width: 95%;}
+a {word-wrap: break-word;}
+}
