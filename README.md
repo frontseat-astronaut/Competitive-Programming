@@ -6,7 +6,7 @@ Here it goes!
 1. Solved 991A which I got wrong earlier; had to remove just one '=':(.
 2. Tried Solving 991C again, but then looked up the editorial as I couldn't come up with anything other than brute force; turns out that if I had just replaced linear search with binary search in the brute force code, it could have worked (because of a neat mathematical observation given in the editorial); my complexity- O(Nlog(N)), editorial complexity- O(log(N)^2).
 3. Also looked up the solution for UVa 10922, found out that the TLE was just because of too many operations in each recursion; found out a more elegant way of solving by using vectors and a trigonometric identity; no square roots or even division!; the program was efficient even for two recursion calls in the function, which I thought were the reason for TLE.
-4. Took part in Codeforces 995 (Div.2); solved parts A, B and D. I did come up with a solution for E (greedy approach), but it gave a wrong answer; came up with two more approaches, but they were worse than the first one; I'm particularly happy about my solution to B; anyway, standing- 896/5255, rating increased by +62 to 1461 (specialist!).
+4. Took part in Codeforces 996 (Div.2); solved parts A, B and D. I did come up with a solution for E (greedy approach), but it gave a wrong answer; came up with two more approaches, but they were worse than the first one; I'm particularly happy about my solution to B; anyway, standing- 896/5255, rating increased by +62 to 1461 (specialist!).
 
 [23/06/18]--
 1. Kept trying 10922; code gave right solution for large input on other IDEs, but got TLE verdict on UVa; came up with a (sort of) more efficient approach, but that too gave TLE.
