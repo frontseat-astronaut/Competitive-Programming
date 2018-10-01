@@ -17,3 +17,38 @@ https://www.geeksforgeeks.org/divide-and-conquer-set-6-tiling-problem/
 https://brilliant.org/wiki/greedy-algorithm/#
 9.	Knight’s Tour
 https://www.youtube.com/watch?v=ab_dY3dZFHM 
+10. Dutch National Flag Problem
+https://coderbyte.com/algorithm/dutch-national-flag-sorting-problem
+11. Johnson's Scheduling Problem
+https://www.ielm.ust.hk/dfaculty/ajay/courses/ieem513/GT/johnson.html
+http://www.uni-miskolc.hu/~matradi/files/2003-M..pdf
+12. Two pointers
+https://codeforces.com/blog/entry/13485
+13. Bitwise AND of a range
+https://www.geeksforgeeks.org/bitwise-and-or-of-a-range/
+14. Calculate sum of all pairwise bitwise ANDs possible
+https://www.geeksforgeeks.org/calculate-sum-of-bitwise-and-of-all-pairs/
+15. Sum of bit differences among all pairs
+https://www.geeksforgeeks.org/sum-of-bit-differences-among-all-pairs/
+16. DP Introduction
+https://www.quora.com/Are-there-any-good-resources-or-tutorials-for-dynamic-programming-DP-besides-the-TopCoder-tutorial/answer/Michal-Danil%C3%A1k?share=1&srid=3OBi
+https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/
+17. Sum of all subarrays
+https://www.geeksforgeeks.org/sum-of-all-subarrays/
+18. Segment tree and Lazy Propagation
+https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/
+19. Persistent Segment Tree
+https://drive.google.com/file/d/0BwGLW04WRv0ITEZjRWlMSFc2bk0/view
+20. Longest Increasing Subsequence 
+https://www.geeksforgeeks.org/longest-monotonically-increasing-subsequence-size-n-log-n/
+21. Matrix exponentiation
+http://fusharblog.com/solving-linear-recurrence-for-programming-contest/
+https://codeforces.com/blog/entry/8323
+22. Fenwick trees
+https://www.hackerearth.com/practice/notes/binary-indexed-tree-or-fenwick-tree/
+https://www.youtube.com/watch?v=RgITNht_f4Q&list=PLDV1Zeh2NRsCvoyP-bztk6uXAYoyZg_U9
+23. Order Statistic Tree
+using Fenwick Trees: https://www.geeksforgeeks.org/order-statistic-tree-using-fenwick-tree-bit/
+using Policy Based Data Structure: https://www.geeksforgeeks.org/policy-based-data-structures-g/
+24. Ordering of pairs: http://www.techiedelight.com/use-std_pair-as-key-std_set-cpp/
+25. Dollar Game: https://www.youtube.com/watch?v=U33dsEcKgeQ
