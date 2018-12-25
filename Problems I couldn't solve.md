@@ -32,3 +32,41 @@ Solution- https://amrfeldfrawy.wordpress.com/2013/07/11/uva-10364-square/
 15. Codeforces 1046I- Geometry- http://codeforces.com/contest/1046/problem/I
 
 16. Grid Walking Hackerrank- DP- https://www.hackerrank.com/challenges/grid-walking/problem
+
+17. Codeforces 1058D - Geometry- http://codeforces.com/contest/1058/problem/D
+
+18. Codeforces 1059D- Geometry- http://codeforces.com/contest/1059/problem/D
+	Ternary search to find minima!
+19. Codeforces 1054D- Constructive algorithm
+
+20. UVa 1202 - Dijkstra- https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3198
+
+21. Codechef BINSTR- Trie (partial)
+
+22. Codeforces 1076 D Dijkstra
+
+23. Codeforces 1076 E tree, segment tree, dfs
+
+24. Codeforces 1077 D Binary Search (learn it!)
+
+25. Codeforces 1077 F2 Sparse Table first problem!
+
+26. Codeforces 1030E DP Pigeonhole Bitmask
+
+27. Codeforces 1061C DP math (contest)
+
+28. CodeChef https://www.codechef.com/LTIME66B/problems/USF Seive Math
+
+29. Codeforces 1084C (contest) https://codeforces.com/contest/1084/problem/C
+
+30. Codeforces 1084D https://codeforces.com/contest/1084/problem/D
+
+31. Codeforces 1062D https://codeforces.com/problemset/problem/1062/D
+
+32. Codeforces 842C https://codeforces.com/problemset/problem/842/C
+
+33. SPOJ FISHER (Dijkstra) (even though I had solved a much similar problem earlier!)
+
+34. Hackerrank Prime Digit Sums (DP)
+
+35. Codeforces 986 C https://codeforces.com/contest/986/problem/C (bitmasks dfs dsu graph)

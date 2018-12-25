@@ -52,3 +52,8 @@ using Fenwick Trees: https://www.geeksforgeeks.org/order-statistic-tree-using-fe
 using Policy Based Data Structure: https://www.geeksforgeeks.org/policy-based-data-structures-g/
 24. Ordering of pairs: http://www.techiedelight.com/use-std_pair-as-key-std_set-cpp/
 25. Dollar Game: https://www.youtube.com/watch?v=U33dsEcKgeQ
+26. Trie and Binary Numbers- https://threads-iiith.quora.com/Tutorial-on-Trie-and-example-problems
+27. Easy and efficient Segment trees- https://codeforces.com/blog/entry/18051
+28. Shortest Path Tree- https://en.wikipedia.org/wiki/Shortest-path_tree
+29. Sparse Table- https://brilliant.org/wiki/sparse-table/
+30. Count of prime divisors using seive: https://stackoverflow.com/questions/17637896/count-distinct-prime-factors

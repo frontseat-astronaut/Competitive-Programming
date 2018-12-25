@@ -1,23 +1,43 @@
-#include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
+#define int long long
 
-int main()
+int32_t main()
 {
-	int T;
-	cin>>T;
-	while(T--)
+	int t;
+	cin>>t;
+	while(t--)
 	{
-		int N, X, S;
-		cin>>N>>X>>S;
-		while(S--)
+		int n, k, temp;
+		cin>>n>>k;
+		double ans;
+
+		if(n==1)
 		{
-			int a, b;
-			cin>>a>>b;
-			if(X==a)
-				X=b;
-			else if(X==b)
-				X=a;
+			ans=1;
 		}
-		cout<<X<<endl;
+		else if(n==2)
+		{
+			ans=0.5;
+		}
+		else
+		{
+			int N=n;
+			while(n>1 && k)
+			{
+				if(k==1 && n>2 && n==N)
+				{
+					if((n/2)&1 && (n-n/2)&1)
+					{
+						n=n/2+1;
+						break;
+					}
+				}
+				n=n-n/2;
+				k--;
+			}
+			ans=(double)1/n;
+		}
+		printf("%.10f\n", ans);
 	}
 }
