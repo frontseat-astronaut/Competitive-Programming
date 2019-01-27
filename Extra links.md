@@ -57,3 +57,5 @@ using Policy Based Data Structure: https://www.geeksforgeeks.org/policy-based-da
 28. Shortest Path Tree- https://en.wikipedia.org/wiki/Shortest-path_tree
 29. Sparse Table- https://brilliant.org/wiki/sparse-table/
 30. Count of prime divisors using seive: https://stackoverflow.com/questions/17637896/count-distinct-prime-factors
+31. Convex Hull https://medium.com/@harshitsikchi/convex-hulls-explained-baab662c4e94
+32. Blogewoosh #6: https://codeforces.com/blog/entry/62602

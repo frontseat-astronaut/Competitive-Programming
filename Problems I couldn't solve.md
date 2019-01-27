@@ -70,3 +70,29 @@ Solution- https://amrfeldfrawy.wordpress.com/2013/07/11/uva-10364-square/
 34. Hackerrank Prime Digit Sums (DP)
 
 35. Codeforces 986 C https://codeforces.com/contest/986/problem/C (bitmasks dfs dsu graph)
+
+36 Codeforces 1095F https://codeforces.com/problemset/problem/1095/F (MST first problem!)
+
+37. Codeforces 1096F https://codeforces.com/contest/1096/problem/F dp probability
+
+38. Hackerrank Subset Component (bitmasking dfs)
+
+39. Hackerrank Frog in Maze (dfs linear_algebra probability)
+
+40. Codeforces 1097D (dp probabilities math number theory)
+
+41. Codeforces 1093E (Fenwick + OST)
+
+42. Codeforces 1101D https://codeforces.com/contest/1101/problem/D
+
+43. Codeforces 1101F https://codeforces.com/contest/1101/problem/F
+
+50. Codeforces 817D https://codeforces.com/contest/817/problem/D 
+
+51. AtCoder J Sushi https://atcoder.jp/contests/dp/tasks/dp_j
+
+52. 1105D (bfs)
+
+53. 1105E (maximum independent set, meet in the middle, bitmask, dp)
+
+54. 1104D (binary search, math, interactive)

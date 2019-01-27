@@ -1,5 +1,5 @@
 #include<iostream>
-#include<cstring>
+#include<ambring>
 using namespace std;
 bool visited[21];
 int M, k;
